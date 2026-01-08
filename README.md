@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @NandanSV2005<br>I'm a developer and student with a passion for building smart, data-driven applications. I love exploring the intersections of AI, backend systems, and database management.<br><br>💻 My Tech Stack<br>Languages: Python, Java, C, SQL<br>Backend: FastAPI, SQLAlchemy<br>AI: LLM APIs (Groq), Prompt Engineering<br>Databases: SQLite, MySQL (DBMS)<br>Tools: Git, GitHub, VS Code<br>🌱 What I'm Learning<br>I'm always growing my skills. Right now, I'm focused on:<br><br>Deepening my knowledge of C and Python.<br>Exploring new AI models and API integrations.<br>Building more full-stack applications.<br><br>i am currently working on developing a voice agents 
 
+##**Portfolio**
+https://my-hire-me-site.lovable.app
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/svnandan1512) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nandan Vinod) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvndan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nandan SV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandansv512@gmail.com) 
