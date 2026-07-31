@@ -4,12 +4,11 @@
 <p align="center">
   <a href="https://my-hire-me-site.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:nandansv512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/Nandan-SV"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.gg/svnandan1512"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/nandan-sv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;FastAPI+%2B+LLM+APIs+%2B+Automation;Currently+building+a+E-commerce+Website;3rd+Year+AI%2FML+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;FastAPI+%2B+LLM+APIs+%2B+Automation;Currently+building+a+E-Commerce Website;3rd+Year+AI%2FML+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +17,7 @@
 
 I'm a developer and 2nd-year AI/ML Engineering student who loves building smart, data-driven applications that sit at the intersection of **AI, backend systems, and databases**. I care less about theory for theory's sake and more about shipping things that actually work end-to-end — from prompt to API to database to UI.
 
-- 🔭 Currently building a **E commerce Website**
+- 🔭 Currently building a **E-Commerce Website**
 - 🌱 Deepening my grip on **C, Python, and LLM API integrations**
 - 💬 Ask me about **FastAPI, prompt engineering, or SQL database design**
 - 📫 Reach me at **nandansv512@gmail.com**
@@ -62,8 +61,8 @@ I'm a developer and 2nd-year AI/ML Engineering student who loves building smart,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandanSV2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanSV2005&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandanSV2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanSV2005&layout=compact&theme=radical&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -71,7 +70,7 @@ I'm a developer and 2nd-year AI/ML Engineering student who loves building smart,
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NandanSV2005&theme=radical&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NandanSV2005&theme=radical&no-frame=true&row=1&margin-w=15&column=4"/>
 </p>
 
 ---
