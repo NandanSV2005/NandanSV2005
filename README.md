@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;FastAPI+%2B+LLM+APIs+%2B+Automation;Currently+building+a+E-commerce+Website;3nd+Year+AI%2FML+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;FastAPI+%2B+LLM+APIs+%2B+Automation;Currently+building+a+E-commerce+Website;3rd+Year+AI%2FML+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
