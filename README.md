@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;FastAPI+%2B+LLM+APIs+%2B+Automation;Currently+building+a+voice+agent;2nd+Year+AI%2FML+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;FastAPI+%2B+LLM+APIs+%2B+Automation;Currently+building+a+E-commerce+Website;3nd+Year+AI%2FML+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 I'm a developer and 2nd-year AI/ML Engineering student who loves building smart, data-driven applications that sit at the intersection of **AI, backend systems, and databases**. I care less about theory for theory's sake and more about shipping things that actually work end-to-end — from prompt to API to database to UI.
 
-- 🔭 Currently building a **voice agent**
+- 🔭 Currently building a **E commerce Website**
 - 🌱 Deepening my grip on **C, Python, and LLM API integrations**
 - 💬 Ask me about **FastAPI, prompt engineering, or SQL database design**
 - 📫 Reach me at **nandansv512@gmail.com**
